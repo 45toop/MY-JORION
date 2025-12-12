@@ -1,0 +1,6 @@
+networkx
+sqlalchemy
+typer
+cryptography
+python-dotenv
+pytest

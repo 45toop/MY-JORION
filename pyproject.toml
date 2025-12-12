@@ -1,0 +1,6 @@
+[project]
+name = "cce_plus"
+version = "0.0.1"
+description = "Private CCE+ prototype"
+authors = [{name = "You & CCE-AI"}]
+requires-python = ">=3.10"
